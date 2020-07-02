@@ -1,0 +1,357 @@
+[
+  {
+    "BreedCode": "501",
+    "BreedName": "ABYSSINIAN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "548",
+    "BreedName": "AMERICAN BOBTAIL",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "539",
+    "BreedName": "AMERICAN CURL",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1593",
+    "BreedName": "AMERICAN CURL SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "533",
+    "BreedName": "AMERICAN LONG HAIR",
+    "Size": " S "
+  },
+  {
+    "BreedCode": "502",
+    "BreedName": "AMERICAN SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "503",
+    "BreedName": "AMERICAN WIREHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1594",
+    "BreedName": "AUSTRAILIAN MIST",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "504",
+    "BreedName": "BALINESE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "542",
+    "BreedName": "BENGAL",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "505",
+    "BreedName": "BIRMAN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "506",
+    "BreedName": "BOMBAY",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1596",
+    "BreedName": "BRAZILIAN SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "507",
+    "BreedName": "BRITISH SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "508",
+    "BreedName": "BURMESE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1595",
+    "BreedName": "BURMILLA",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "538",
+    "BreedName": "CALIFORNIA SPANGLED",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "555",
+    "BreedName": "CHANTILLY-TIFFANY",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "509",
+    "BreedName": "CHARTREUX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2055",
+    "BreedName": "CHEETOH",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "510",
+    "BreedName": "COLORPOINT SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "551",
+    "BreedName": "CORNISH REX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1597",
+    "BreedName": "CYMRIC",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "552",
+    "BreedName": "DEVON REX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "512",
+    "BreedName": "DOMESTIC LONGHAIR",
+    "Size": " S "
+  },
+  {
+    "BreedCode": "540",
+    "BreedName": "DOMESTIC MEDIUM HAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "511",
+    "BreedName": "DOMESTIC SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "513",
+    "BreedName": "EGYPTIAN MAU",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2041",
+    "BreedName": "EUROPEAN BURMESE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1598",
+    "BreedName": "EUROPEAN SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "549",
+    "BreedName": "EXOTIC LONGHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "514",
+    "BreedName": "EXOTIC SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1599",
+    "BreedName": "GERMEN REX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "515",
+    "BreedName": "HAVANA BROWN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "516",
+    "BreedName": "HIMALAYAN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "517",
+    "BreedName": "JAPANESE BOBTAIL",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "550",
+    "BreedName": "JAVANESE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "518",
+    "BreedName": "KORAT",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2040",
+    "BreedName": "LA PERM",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "519",
+    "BreedName": "MAINE COON",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "520",
+    "BreedName": "MANX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "521",
+    "BreedName": "MANX LONGHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2003",
+    "BreedName": "MIXED- LONG HAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2002",
+    "BreedName": "MIXED- MEDIUM HAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2001",
+    "BreedName": "MIXED- SHORT HAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "553",
+    "BreedName": "MUNCHKIN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1600",
+    "BreedName": "NEBELUNG",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "545",
+    "BreedName": "NORWEGIAN FOREST CAT",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "543",
+    "BreedName": "OCICAT",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "522",
+    "BreedName": "ORIENTAL SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "523",
+    "BreedName": "PERSIAN",
+    "Size": "S "
+  },
+  {
+    "BreedCode": "1601",
+    "BreedName": "PETERBALD",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "831",
+    "BreedName": "PIXIE-BOB",
+    "Size": "M "
+  },
+  {
+    "BreedCode": "2042",
+    "BreedName": "RAGAMUFFIN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "524",
+    "BreedName": "RAGDOLL",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "525",
+    "BreedName": "REX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "526",
+    "BreedName": "RUSSIAN BLUE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2049",
+    "BreedName": "Savannah",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "527",
+    "BreedName": "SCOTTISH FOLD",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "528",
+    "BreedName": "SIAMESE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "556",
+    "BreedName": "SIBERIAN FOREST CAT",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "2043",
+    "BreedName": "SILKIRK REX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "544",
+    "BreedName": "SINGAPURA",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "546",
+    "BreedName": "SNOWSHOE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "529",
+    "BreedName": "SOMALI",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "530",
+    "BreedName": "SPHYNX",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "531",
+    "BreedName": "TONKINESE",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "532",
+    "BreedName": "TURKISH ANGORA",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1602",
+    "BreedName": "TURKISH SHORTHAIR",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "541",
+    "BreedName": "TURKISH VAN",
+    "Size": "S"
+  },
+  {
+    "BreedCode": "1603",
+    "BreedName": "YORK CHOCOLATE CAT",
+    "Size": "S"
+  }
+]

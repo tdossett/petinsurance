@@ -1,20 +1,18 @@
 <template>
-  <v-layout>
-    <v-flex class="justify-center">
-      <v-card class="pa-2">
-        <div class="text-center">
-          <pet-image />
-        </div>
-        <blockquote class="blockquote text-center">
-          &#8220;First, solve the problem. Then, write the code.&#8221;
-          <footer>
-            <small>
-              <em>&mdash;John Johnson</em>
-            </small>
-          </footer>
-        </blockquote>
-      </v-card>
-
+  <v-layout
+    column
+    justify-center
+    align-center
+  >
+    <v-flex
+      xs12
+      sm8
+      md6
+    >
+      <div class="text-center">
+        <pet-image />
+      </div>
+      
       <v-card>
         <v-card-title class="headline">
           Welcome to Nerd Brains team from Nationwide Pet Insurance.
@@ -76,14 +74,12 @@
           <v-btn
             color="primary"
             nuxt
-            to="/enroll"
+            to="/inspire"
           >
             Continue
           </v-btn>
         </v-card-actions>
       </v-card>
-
-      
     </v-flex>
   </v-layout>
 </template>
@@ -93,7 +89,7 @@ import PetImage from '~/components/PetImage.vue'
 
 export default {
   components: {
-    PetImage
+     PetImage
   }
 }
 </script>

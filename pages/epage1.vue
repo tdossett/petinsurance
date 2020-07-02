@@ -1,7 +1,8 @@
 <template>
   <v-layout>
     <v-flex class="text-center">
-      <img
+      <v-card class="pa-5">
+        <img
         src="/v.png"
         alt="Vuetify.js"
         class="mb-5"
@@ -14,6 +15,8 @@
           </small>
         </footer>
       </blockquote>
+      </v-card>
+      
     </v-flex>
   </v-layout>
 </template>

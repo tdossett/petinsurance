@@ -52,7 +52,7 @@
           </p>
           <p>Thank you and we look forward to bringing more exciting features in the future.</p>
           <div class="text-xs-right">
-            <em><small>&mdash; Team: Tim Dossett.................</small></em>
+            <em><small>&mdash; Team: .................</small></em>
           </div>
           <hr class="my-3">
           <a
@@ -74,7 +74,8 @@
         <v-card-actions>
           <v-spacer />
           <v-btn
-            color="primary"
+            color="blue darken-1"
+            text
             nuxt
             to="/enroll"
           >

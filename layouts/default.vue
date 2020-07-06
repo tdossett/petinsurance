@@ -8,6 +8,12 @@
       app
     >
       <v-list>
+        <v-list-item>
+            <v-img :src="require('../assets/images/nw_logo.PNG')" max-height="55" contain></v-img>
+        </v-list-item>
+
+        <v-divider></v-divider>
+
         <v-list-item
           v-for="(item, i) in items"
           :key="i"
@@ -85,8 +91,8 @@
       :absolute="fixed"
       app
     >
-      <v-flex xs12 py-3 text-xs-center>
-        <span>&copy; {{ new Date().getFullYear() }}</span>
+      <v-flex d-flex justify-center>
+        <span>Nerd Brains &copy;{{ new Date().getFullYear() }}</span>
       </v-flex>
       
     </v-footer>
@@ -115,7 +121,7 @@ export default {
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Nationwide Pet Insurance'
+      title: 'Pet Insurance'
     }
   }
 }

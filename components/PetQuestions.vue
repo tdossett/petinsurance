@@ -10,7 +10,7 @@
           <v-text-field
             v-model="firstname"
             :rules="nameRules"
-            :counter="10"
+            :counter="25"
             label="Pet name"
             required
           ></v-text-field>
@@ -85,7 +85,7 @@
         location: '',
         nameRules: [
           v => !!v || 'Pet Name is required',
-          v => v.length <= 10 || 'Name must be less than 10 characters',
+          v => v.length <= 25 || 'Name must be less than 25 characters',
         ],
         locationRules: [
           v => !!v || 'Location is required',
@@ -118,7 +118,7 @@
             size: pet.Size
           }))
 
-          console.log('items', items)
+          // console.log('items', items)
 
           this.items = items
         },
@@ -133,7 +133,7 @@
             stateAbrev: state.abbreviation
           }))
 
-          console.log('items1', items1)
+          // console.log('items1', items1)
 
           this.items1 = items1
         },
